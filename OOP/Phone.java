@@ -1,12 +1,10 @@
 public class Celular {
 
-    // Atributos
     String marca;
     String modelo;
     int bateria;
     boolean ligado;
 
-    // Construtor
     public Celular(String marca, String modelo) {
         this.marca = marca;
         this.modelo = modelo;
@@ -14,7 +12,6 @@ public class Celular {
         this.ligado = false;
     }
 
-    // Métodos
     public void ligar() {
         if (!ligado) {
             ligado = true;

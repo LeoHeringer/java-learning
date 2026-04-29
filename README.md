@@ -1,52 +1,24 @@
-# Java Learning Journey
+Readme
 
-This repository documents my structured learning journey in Java, progressing from fundamental concepts to Object-Oriented Programming (OOP) and small practical projects.
+# Java Learning
 
----
+This repository contains my Java learning journey, from fundamentals to more advanced topics.
 
-## Project Structure
+## ▣ Content
 
-- 01-basics → core language fundamentals (variables, conditionals, loops)
-- 02-oop → object-oriented fundamentals (classes, objects, methods, constructors)
-- 03-advanced-oop → deeper OOP concepts (encapsulation, inheritance, interfaces)
-- 04-mini-projects → applied small-scale projects
-- 05-polished → refined and improved implementations of previous work
+The repository is structured by topics:
 
----
+- ▣ 01-basics → variables, data types, input/output  
+- ▣ 02-loops → for, while loops  
+- ▣ 03-oop → object-oriented programming (classes, objects, methods)  
+- ▣ 04-collections → lists, maps, sets  
+- ▣ 05-exceptions → error handling  
+- ▣ 06-mini-projects → small practice projects  
 
-## Technologies
+## ▣ Objective
 
-- Java
-- Git & GitHub
-- VS Code
+Build solid foundations in Java through consistent practice and structured learning.
 
----
+## ▣ Status
 
-## How to Run
-
-1. Clone the repository:
-git clone https://github.com/your-username/java-learning-journey.git
-
-2. Navigate to a project folder:
-cd 02-oop
-
-3. Compile:
-javac Main.java
-
-4. Run:
-java Main
-
----
-
-## Objective
-
-To build a solid foundation in Java and Object-Oriented Programming through structured practice, clean code, and progressive complexity.
-
----
-
-## Future Work
-
-After this stage, the focus will shift toward complete applications and more advanced system design:
-
-- Project 1 → to be defined
-- Project 2 → to be defined
+In progress — continuously evolving.

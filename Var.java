@@ -2,13 +2,13 @@ public class Main {
 
     public static void main(String[] args) {
 
-        int minhaIdade = 20;
-        String meuNome = "Fernanda";
+        int age = 20;
+        String name = "Fernanda";
 
-        var nomeVariavel = "Fernanda";
+        var variableName = "Fernanda";
 
-        System.out.println("Nome: " + meuNome);
-        System.out.println("Idade: " + minhaIdade);
-        System.out.println("Nome (var): " + nomeVariavel);
+        System.out.println("Name: " + name);
+        System.out.println("Age: " + age);
+        System.out.println("Name (var): " + variableName);
     }
 }

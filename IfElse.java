@@ -24,11 +24,12 @@ public class IfElse {
         } else {
             System.out.println("Account is inactive.");
         }
-
         if (accountType == 'P') {
             System.out.println("Personal account.");
-        } else {
+        } else if (accountType == 'B') {
             System.out.println("Business account.");
+        } else {
+            System.out.println("Unknown account type.");
         }
     }
 }

@@ -14,6 +14,7 @@ public class PrimitiveTypes {
 
         boolean isJavaFun = true;
 
+        
         System.out.println("Byte: " + myByte);
         System.out.println("Short: " + myShort);
         System.out.println("Int: " + myInt);
